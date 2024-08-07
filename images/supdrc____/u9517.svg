@@ -1,7 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="205px" height="43px" xmlns="http://www.w3.org/2000/svg">
-  <g transform="matrix(1 0 0 1 -78 -38 )">
-    <path d="M 79 42  A 3 3 0 0 1 82 39 L 279 39  A 3 3 0 0 1 282 42 L 282 77  A 3 3 0 0 1 279 80 L 82 80  A 3 3 0 0 1 79 77 L 79 42  Z " fill-rule="nonzero" fill="#ff3399" stroke="none" fill-opacity="0.0980392156862745" />
-    <path d="M 78.5 42  A 3.5 3.5 0 0 1 82 38.5 L 279 38.5  A 3.5 3.5 0 0 1 282.5 42 L 282.5 77  A 3.5 3.5 0 0 1 279 80.5 L 82 80.5  A 3.5 3.5 0 0 1 78.5 77 L 78.5 42  Z " stroke-width="1" stroke-dasharray="9,4" stroke="#ff3399" fill="none" stroke-dashoffset="0.5" />
-  </g>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="13px" height="13px" viewBox="183 91  13 13" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 183.5 93  A 1.5 1.5 0 0 1 185 91.5 L 194 91.5  A 1.5 1.5 0 0 1 195.5 93 L 195.5 102  A 1.5 1.5 0 0 1 194 103.5 L 185 103.5  A 1.5 1.5 0 0 1 183.5 102 L 183.5 93  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" />
+  <path d="M 183.5 93  A 1.5 1.5 0 0 1 185 91.5 L 194 91.5  A 1.5 1.5 0 0 1 195.5 93 L 195.5 102  A 1.5 1.5 0 0 1 194 103.5 L 185 103.5  A 1.5 1.5 0 0 1 183.5 102 L 183.5 93  Z " stroke-width="1" stroke="#8c8c8c" fill="none" />
 </svg>

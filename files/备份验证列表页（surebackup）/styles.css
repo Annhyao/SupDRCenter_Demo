@@ -223,7 +223,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFang SC ', 'PingFang SC', sans-serif;
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
   font-weight:400;
   font-style:normal;
   color:rgba(0, 0, 0, 0.427450980392157);
@@ -237,7 +237,7 @@
   width:197px;
   height:22px;
   display:flex;
-  font-family:'PingFang SC ', 'PingFang SC', sans-serif;
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
   font-weight:400;
   font-style:normal;
   color:rgba(0, 0, 0, 0.427450980392157);
@@ -1838,7 +1838,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFang SC ', 'PingFang SC', sans-serif;
+  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC', sans-serif;
   font-weight:650;
   font-style:normal;
   font-size:20px;
@@ -1854,7 +1854,7 @@
   width:1322px;
   height:60px;
   display:flex;
-  font-family:'PingFang SC ', 'PingFang SC', sans-serif;
+  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC', sans-serif;
   font-weight:650;
   font-style:normal;
   font-size:20px;
@@ -3831,7 +3831,7 @@
   border-width:0px;
   position:absolute;
   left:48px;
-  top:915px;
+  top:940px;
   width:1322px;
   height:1420px;
 }
@@ -15043,7 +15043,7 @@
 #u412 {
   border-width:0px;
   position:absolute;
-  left:1307px;
+  left:-1203px;
   top:426px;
   width:30px;
   height:40px;
@@ -15109,7 +15109,7 @@
 #u414 {
   border-width:0px;
   position:absolute;
-  left:1307px;
+  left:-1203px;
   top:477px;
   width:30px;
   height:40px;
@@ -15175,7 +15175,7 @@
 #u416 {
   border-width:0px;
   position:absolute;
-  left:1307px;
+  left:-1203px;
   top:555px;
   width:30px;
   height:40px;
@@ -15332,7 +15332,7 @@
 #u419 {
   border-width:0px;
   position:absolute;
-  left:1307px;
+  left:-1203px;
   top:525px;
   width:30px;
   height:40px;
@@ -15365,7 +15365,7 @@
 #u420 {
   border-width:0px;
   position:absolute;
-  left:1303px;
+  left:-1207px;
   top:716px;
   width:30px;
   height:40px;
